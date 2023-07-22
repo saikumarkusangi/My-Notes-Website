@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/saikumarkusangi/My-Notes-Website/static/css/main.36d58d52.css",
-    "main.js": "/saikumarkusangi/My-Notes-Website/static/js/main.2cd9414b.js",
+    "main.js": "/saikumarkusangi/My-Notes-Website/static/js/main.65b53878.js",
     "index.html": "/saikumarkusangi/My-Notes-Website/index.html",
     "main.36d58d52.css.map": "/saikumarkusangi/My-Notes-Website/static/css/main.36d58d52.css.map",
-    "main.2cd9414b.js.map": "/saikumarkusangi/My-Notes-Website/static/js/main.2cd9414b.js.map"
+    "main.65b53878.js.map": "/saikumarkusangi/My-Notes-Website/static/js/main.65b53878.js.map"
   },
   "entrypoints": [
     "static/css/main.36d58d52.css",
-    "static/js/main.2cd9414b.js"
+    "static/js/main.65b53878.js"
   ]
 }
