@@ -1,0 +1,31 @@
+
+
+.folder{
+    position: relative;
+    background-color: rgb(174, 245, 222);
+    max-width: 250px;
+    width: 250px;
+    height: 120px;
+    border-radius: 10px;
+    padding: 20px
+}
+
+
+.folder .title{
+    font-weight: 450;
+}
+
+.folder .date {
+    color: rgb(49, 48, 48);
+    font-size: 12px;
+}
+
+.folder .folder-icon{
+   color: blueviolet;
+}
+
+.folder .menu-icon{
+    position: absolute;
+    right: 0;
+    padding-right: 20px;
+}

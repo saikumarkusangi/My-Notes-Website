@@ -1,0 +1,46 @@
+main{
+    background-color:rgb(245,245,245);
+    height: 100%;
+    width: 100%;
+    border-top-left-radius: 20px;
+  
+ 
+}
+
+.Layout{
+    display: flex;
+}
+
+
+.side-bar{
+    width: 200px;
+    height: 100%;
+    background-color: white;
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-self: end;
+    gap: 10px;
+}
+
+.logout-btn{
+    background-color: rgb(4, 4, 62);
+    color: white;
+    border: 0;
+    padding: 10px 40px;
+    font-size: 14px;
+    border-radius: 4px;
+    
+ 
+}
+
+.Layout span{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    gap: 10px;
+}
+
+.Layout span p{
+    color: rgb(167, 167, 167);
+}

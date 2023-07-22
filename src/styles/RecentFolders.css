@@ -1,0 +1,46 @@
+.recent-folders{
+    padding: 20px 20px 0 20px;
+}
+
+.recent-folders .heading{
+    font-weight: 400;
+
+}
+
+.recent-folders .time-line{
+    display:flex;
+    gap: 40px;
+    
+}
+
+.time-line p{
+    color: #7e7e7e;
+}
+
+.time-line .active{
+   color: black;
+   border-bottom: 2px solid black;
+   padding-bottom: 5px;
+}
+
+.recent-folders .folders{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding-top: 20px;
+}
+
+
+.recent-folders .new-folder{
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    border: 2px dashed rgb(83, 83, 83);
+    
+    
+}
+
+.new-folder h3{
+    font-weight: 400;
+    color: rgb(39, 39, 39);
+}

@@ -1,0 +1,60 @@
+
+.Header{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+
+nav{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    background-color: white;
+   
+  
+}
+
+.logo{
+    padding-top: 10px;
+    height: 80px;
+}
+
+.greeting{
+   font-weight: 400;
+   padding-right: 300px;
+}
+
+.search-box{
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  border: 0 ;
+  padding:10px 10px;
+  align-items: center;
+  width: 250px;
+ 
+}
+
+.search-box input{
+    background-color: #f2f2f2;
+    border: 0 ;
+    font-size: 18px;
+    padding-left: 10px;
+    width: 200px;
+}
+
+.search-box input:focus{
+    outline-width: 0;
+}
+
+.profile-pic {
+    height: 35px;
+    border-radius: 40px;
+    margin-right: 20px;
+}

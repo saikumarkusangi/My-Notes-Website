@@ -1,0 +1,54 @@
+.mynotes{
+    padding: 20px 20px 20px 20px;
+}
+
+.mynotes .heading{
+    font-weight: 400;
+}
+
+.mynotes .time-line{
+    display:flex;
+    gap: 40px;
+    
+}
+
+.time-line p{
+    color: #7e7e7e;
+}
+
+.time-line .active{
+   color: black;
+   border-bottom: 2px solid black;
+   padding-bottom: 5px;
+}
+
+.mynotes .allnotes{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    
+}
+
+
+.mynotes .new-note{
+    border-radius: 10px;
+    padding: 20px;
+    border: 2px dashed rgb(83, 83, 83);
+    height: 250px;
+    max-height: 250px;
+    width: 200px;
+    text-align: center;
+    
+}
+
+.new-note h3{
+    font-weight: 300;
+    font-size: 30px;
+    color: rgb(39, 39, 39);
+   
+}
+
+.new-note .note-icon{
+    padding-top: 40px;
+}
